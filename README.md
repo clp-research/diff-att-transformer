@@ -254,7 +254,7 @@ If you used our paper or this repository in your research and you are interested
 
 ```
 @Misc{,
-    author = {Sina Zarrie?, Henrik Voigt, David Schlangen and Philipp Sadler},
+    author = {Sina Zarrieß, Henrik Voigt, David Schlangen and Philipp Sadler},
     title = {Generating Landmark-based Manipulation Instructions from Image Pairs},
     year = {2022},
     url = {https://github.com/clp-research/diff-att-transformer}
